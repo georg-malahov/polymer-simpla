@@ -1,0 +1,9 @@
+{
+  "type": "Text",
+  "data": {
+    "value": "Hello world"
+  },
+  "path": "/test",
+  "createdAt": "2017-10-27T08:23:03.622Z",
+  "updatedAt": "2017-10-27T08:23:03.622Z"
+}
